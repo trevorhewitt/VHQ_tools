@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>VHQ Link Generator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1><strong>VHQ Link Generator</strong></h1>
+
+  <div class="section">
+    <label for="requireResponses">Require responses</label>
+    <p class="help">If enabled, responses are required except Question 21 (leave blank).</p>
+    <select id="requireResponses">
+      <option value="true" selected>true</option>
+      <option value="false">false</option>
+    </select>
+
+    <label for="includeBack">Include back button</label>
+    <select id="includeBack">
+      <option value="false" selected>false</option>
+      <option value="true">true</option>
+    </select>
+
+    <label for="includeInfrequency">Include infrequency questions</label>
+    <select id="includeInfrequency">
+      <option value="true" selected>true</option>
+      <option value="false">false</option>
+    </select>
+
+    <label for="qpp">Questions per page</label>
+    <input id="qpp" type="number" min="1" max="50" value="5" />
+
+    <label for="includeInstructions">Include instructions page</label>
+    <select id="includeInstructions">
+      <option value="false" selected>false</option>
+      <option value="true">true</option>
+    </select>
+
+    <hr />
+
+    <label for="trialName">Trial name</label>
+    <p class="help">URL-safe token (letters, digits, underscore, hyphen).</p>
+    <input id="trialName" type="text" inputmode="text" autocomplete="off" placeholder="" />
+
+    <label for="condition">Condition</label>
+    <p class="help">URL-safe token (letters, digits, underscore, hyphen).</p>
+    <input id="condition" type="text" inputmode="text" autocomplete="off" placeholder="" />
+
+    <label for="participantCode">Participant code</label>
+    <p class="help">URL-safe token (letters, digits, underscore, hyphen).</p>
+    <input id="participantCode" type="text" inputmode="text" autocomplete="off" placeholder="" />
+
+    <label for="seed">Random order seed</label>
+    <p class="help">Integer. Leave blank to generate a new seed on each load.</p>
+    <input id="seed" type="number" step="1" inputmode="numeric" placeholder="" />
+
+    <label for="cipherLink">Cipher link</label>
+    <p class="help">If enabled, query parameters are obfuscated.</p>
+    <select id="cipherLink">
+      <option value="true" selected>true</option>
+      <option value="false">false</option>
+    </select>
+
+    <label for="onComplete">On complete action</label>
+    <select id="onComplete">
+      <option value="none" selected>do nothing</option>
+      <option value="close">close window</option>
+      <option value="redirect">go to link</option>
+    </select>
+
+    <div id="redirectRow">
+      <label for="redirectUrl">Redirect link</label>
+      <input id="redirectUrl" type="text" inputmode="url" autocomplete="off" placeholder="" />
+    </div>
+  </div>
+
+  <div class="section">
+    <label for="linkBox">Link</label>
+    <textarea id="linkBox" class="mono" readonly></textarea>
+
+    <div class="row" style="margin-top:10px;">
+      <button id="copyBtn" type="button">Copy</button>
+      <button id="openBtn" type="button">Open</button>
+      <button id="resetBtn" type="button">Reset</button>
+    </div>
+
+    <div id="status" class="small" style="margin-top:10px;"></div>
+  </div>
+
+  <script type="module" src="index.js"></script>
+</body>
+</html>

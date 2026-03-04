@@ -1,0 +1,36 @@
+question	dimension	reversed	expected	name	text
+1	1	0	-1	vision	Imagine the appearance of: a friend you know well
+2	1	0	-1	vision	Imagine the appearance of: a cat climbing a tree
+3	1	0	-1	vision	Imagine the appearance of: a sunset
+4	1	0	-1	vision	Imagine the appearance of: the front door of your house
+5	1	0	-1	vision	Imagine the appearance of: a bonfire
+6	2	0	-1	sound	Imagine the sound of: an ambulance siren
+7	2	0	-1	sound	Imagine the sound of: hands clapping in applause
+8	2	0	-1	sound	Imagine the sound of: the mewing of a cat
+9	2	0	-1	sound	Imagine the sound of: the sound of a car horn
+10	2	0	-1	sound	Imagine the sound of: the sound of children playing
+11	3	0	-1	smell	Imagine the smell of: a stuffy room
+12	3	0	-1	smell	Imagine the smell of: a rose
+13	3	0	-1	smell	Imagine the smell of: fresh paint
+14	3	0	-1	smell	Imagine the smell of: newly cut grass
+15	3	0	-1	smell	Imagine the smell of: burning wood
+16	4	0	-1	taste	Imagine the taste of: mustard
+17	4	0	-1	taste	Imagine the taste of: toothpaste
+18	4	0	-1	taste	Imagine the taste of: lemon
+19	4	0	-1	taste	Imagine the taste of: sea water
+20	4	0	-1	taste	Imagine the taste of: black pepper
+21	5	0	-1	touch	Imagine touching: warm sand
+22	5	0	-1	touch	Imagine touching: a soft towel
+23	5	0	-1	touch	Imagine touching: the point of a pin
+24	5	0	-1	touch	Imagine touching: icy water
+25	5	0	-1	touch	Imagine touching: fur
+26	6	0	-1	bodily	Imagine the bodily sensation of: relaxing in a warm bath
+27	6	0	-1	bodily	Imagine the bodily sensation of: having a sore throat
+28	6	0	-1	bodily	Imagine the bodily sensation of: threading a needle
+29	6	0	-1	bodily	Imagine the bodily sensation of: jumping into a swimming pool
+30	6	0	-1	bodily	Imagine the bodily sensation of: walking briskly in the cold
+31	7	0	-1	emotional	Imagine feeling: excited
+32	7	0	-1	emotional	Imagine feeling: relieved
+33	7	0	-1	emotional	Imagine feeling: furious
+34	7	0	-1	emotional	Imagine feeling: in love
+35	7	0	-1	emotional	Imagine feeling: scared

@@ -1,0 +1,22 @@
+question	dimension	reversed	expected	name	text
+1	1	0	-1	geometric	I saw shapes, lines, dots, or other geometric formations.
+2	1	0	-1	geometric	I saw geometrical patterns, similar to honeycombs, spirals, checkerboards, targets, or tunnels.
+3	1	0	-1	geometric	I saw patterns, such as repeating shapes or colours.
+4	2	0	-1	semantic	I saw things which looked like living beings, human-made objects, landscapes, or scenery.
+5	2	0	-1	semantic	My visual experience contained elements that resembled things in the real world.
+6	2	0	-1	semantic	I saw things similar to what I might see in dreams or normal waking life.
+7	3	0	-1	detail	My visual experience was rich with intricate detail.
+8	3	0	-1	detail	What I saw had fine details.
+9	3	0	-1	detail	I saw many little details and nuances.
+10	4	1	-1	vividness	My visual experience looked as though I was looking through a haze or through darkness.
+11	4	1	-1	vividness	It looked like what I saw was faded, washed out, or greyed out.
+12	4	1	-1	vividness	The colours or shades in my visual experience were mostly muted, dark, or dull. 
+13	5	0	-1	entropy	What I saw was very chaotic.
+14	5	0	-1	entropy	I saw a high level of randomness.
+15	5	0	-1	entropy	My visual experience was jumbled, unstructured, asymmetric, incoherent, or otherwise disordered.
+16	6	0	-1	focality	My visual experience was focused on one central point.
+17	6	1	-1	focality	What I saw was spread evenly across my visual field. There was no single focus.
+18	6	0	-1	focality	My visual experience had a clear focal point around which everything else was organised.
+19	7	0	1	infrequency	I saw images of food, meals, snacks, or drinks.
+20	7	0	5	infrequency	I am answering these questions specifically about my visual experience.
+21	7	0	-1	infrequency	If you are answering honestly, please do not answer this question. Simply leave the answer blank.

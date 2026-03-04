@@ -1,0 +1,43 @@
+question	dimension	reversed	expected	name	text
+10	1	0	-1	experience_of_unity	10. Everything seemed to unify into an oneness.
+21	1	0	-1	experience_of_unity	21. It seemed to me that my environment and I were one.
+27	1	0	-1	experience_of_unity	27. I experienced a touch of eternity.
+28	1	0	-1	experience_of_unity	28. Conflicts and contradictions seemed to dissolve.
+35	1	0	-1	experience_of_unity	35. I experienced past, present and future as an oneness.
+6	2	0	-1	spiritual_experience	6. I had the feeling of being connected to a superior power.
+20	2	0	-1	spiritual_experience	20. I experienced a kind of awe.
+66	2	0	-1	spiritual_experience	66. My experience had religious aspects.
+7	3	0	-1	blissful_state	7. I enjoyed boundless pleasure.
+60	3	0	-1	blissful_state	60. I experienced a profound peace in myself.
+65	3	0	-1	blissful_state	65. I experienced an all-embracing love.
+4	4	0	-1	insightfulness	4. I felt very profound.
+46	4	0	-1	insightfulness	46. I gained clarity into connections that puzzled me before.
+48	4	0	-1	insightfulness	48. I had very original thoughts.
+15	5	0	-1	disembodiment	15. It seemed to me as though I did not have a body anymore.
+42	5	0	-1	disembodiment	42. I had the feeling of being outside of my body.
+43	5	0	-1	disembodiment	43. I felt as though I were floating.
+5	6	0	-1	impaired_control_and_cognition	5. I felt like a marionette.
+16	6	0	-1	impaired_control_and_cognition	16. I had difficulty making even the smallest decision.
+24	6	0	-1	impaired_control_and_cognition	24. I had difficulty in distinguishing important from unimportant things.
+30	6	0	-1	impaired_control_and_cognition	30. I felt as though I were paralyzed.
+33	6	0	-1	impaired_control_and_cognition	33. I felt isolated from everything and everyone.
+44	6	0	-1	impaired_control_and_cognition	44. I was not able to complete a thought, my thought repeatedly became disconnected.
+45	6	0	-1	impaired_control_and_cognition	45. I had the feeling that I no longer had a will of my own.
+53	6	0	-1	impaired_control_and_cognition	53. I had the feeling that I no longer had a will of my own.
+19	7	0	-1	anxiety	19. I was afraid that the state I was in would last forever.
+29	7	0	-1	anxiety	29. I was afraid without being able to say exactly why.
+30	7	0	-1	anxiety	30. I experienced everything terrifyingly distorted.
+32	7	0	-1	anxiety	32. I experienced my surroundings as strange and weird.
+34	7	0	-1	anxiety	34. I felt threatened.
+25	8	0	-1	complex_imagery	25. I had the feeling something horrible would happen.
+49	8	0	-1	complex_imagery	49. I saw scenes rolling by in total darkness or with my eyes closed.
+57	8	0	-1	complex_imagery	57. I could see pictures from my past or fantasy extremely clearly.
+8	9	0	-1	elementary_imagery	8. I saw regular patterns in complete darkness or with closed eyes.
+12	9	0	-1	elementary_imagery	12. I saw colors before me in total darkness or with closed eyes.
+20	9	0	-1	elementary_imagery	20. I saw lights or flashes of light in total darkness or with closed eyes.
+11	10	0	-1	audio_visual_synesthesia	11. Noises seemed to influence what I saw.
+14	10	0	-1	audio_visual_synesthesia	14. The shapes of things seemed to change by sounds and noises.
+51	10	0	-1	audio_visual_synesthesia	51. The colors of things seemed to be changed by sounds and noises.
+17	11	0	-1	changed_meaning_of_percepts	17. Everyday things gained a special meaning.
+18	11	0	-1	changed_meaning_of_percepts	18. Things around me had a new strange meaning for me.
+37	11	0	-1	changed_meaning_of_percepts	37. Objects around me engaged me emotionally much more than usual.
