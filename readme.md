@@ -8,6 +8,13 @@ The instrument is introduced and validated in:
 *Measuring the contents of visual hallucinations induced by psychedelics and stroboscopic light: The Six-Dimensional Visual Hallucination Questionnaire (6D-VHQ).*  
 https://doi.org/10.31234/osf.io/qv5hz_v1
 
+Please use these tools with a CC BY-NC licence, giving credit by citing the paper above.
+https://creativecommons.org/licenses/by-nc/4.0/deed.en
+
+This repo is also available on the OSF: 
+https://osf.io/2np9g/overview?view_only=812947131ed34071b16d05d90706c9fc
+
+
 ---
 
 # Repository structure
