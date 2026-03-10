@@ -57,7 +57,22 @@ Jupyter notebooks used to generate the analyses and figures reported in the pape
 
 Example webpages for administering the **6D-VHQ** in browser-based experiments.
 
-index.html generates a link that launches the questionnaire configured via URL parameters. This allows the questionnaire to be embedded in experiments and responses to be saved locally (e.g., as `.tsv` files with participant identifiers).
+You can view these pages through github pages, or download them to run locally. This code is free to adjust and adapt (e.g. so that data can be uploaded to your server).
+
+- **index.html**
+github pages link: https://trevorhewitt.github.io/VHQ_tools/demo_webpages/index.html
+
+This page can be used to generate a link that launches the questionnaire and saves the data locally 
+
+- **questionnaire.html**
+github pages link: https://trevorhewitt.github.io/VHQ_tools/demo_webpages/questionnaire.html
+
+The questionnaire itself
+
+- **instructions.html**
+github pages link: https://trevorhewitt.github.io/VHQ_tools/demo_webpages/instructions.html
+
+The instructions for the questionnaire
 
 ---
 
