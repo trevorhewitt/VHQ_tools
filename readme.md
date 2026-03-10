@@ -23,6 +23,7 @@ https://osf.io/2np9g/overview?view_only=812947131ed34071b16d05d90706c9fc
 - imgs/
 - question_keys/
 - tables_data/
+- 6D-VHQ_guide.docx
 
 
 ## analysis_notebooks
@@ -79,3 +80,9 @@ Anonymised data tables used in the analyses.
 - **Experiment 1** – image-based validation study  
 - **Experiment 2** – stroboscopically induced visual hallucinations  
 - **Experiment 3** – psychedelic closed-eye visuals
+
+---
+
+## 6D-VHQ_guide.docx
+
+A word document showing how to use the questionnaire. 
